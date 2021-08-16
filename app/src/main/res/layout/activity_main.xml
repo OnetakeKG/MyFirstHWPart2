@@ -32,14 +32,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
-        android:ems="15"
+        android:ems="13"
         android:inputType="phone"/>
 
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
-        android:ems="15"
+        android:ems="11"
         android:inputType="number"/>
 
     <EditText
@@ -53,7 +53,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
-        android:ems="15"
+        android:ems="5"
         android:inputType="textEmailAddress"/>
 
     <EditText
